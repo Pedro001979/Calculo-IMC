@@ -1,5 +1,3 @@
-/*Este é um programa que Calcuala o IMC (Indice de Massa Corporal).*/
-
 const entradaAltura = require('prompt-sync') ({sigint: true});
 let altura;
 altura = entradaAltura ("Digite Sua Altura: ");
